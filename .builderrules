@@ -1,0 +1,5 @@
+- Always use the flowbite-svelte components when creating components and avoid creating components unless neccessary.
+
+## Icons
+- Use flowbite-svelte-icons for all icons. 
+- A list of icons can be found at https://flowbite-svelte.com/icons/solid-icons
